@@ -9,6 +9,7 @@ namespace HashCollection
 {
     class Program
     {
+        //Hastable collection stores values in key/value pair but Key is User-Defined
         static void Main(string[] args)
         {
             var ht = new Hashtable();
